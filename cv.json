@@ -236,7 +236,7 @@
         "En desarrollo",
         "TypeScript",   "Astro js" , "Vite", "tailwind css"
       ],
-      "url": "https://github.com/lsendoya/dalas"
+      "github": "https://github.com/lsendoya/dalas"
     },
     {
       "name": "Cocktail-App",
@@ -245,7 +245,8 @@
       "highlights": [
         "JavaScript & TypeScript & Astro js"
       ],
-      "url": "https://github.com/lsendoya/cocktail-app"
+      "url": "https://cocktail-app-seven-neon.vercel.app/",
+      "github": "https://github.com/lsendoya/cocktail-app"
     },
     {
       "name": "Portal Admin",
@@ -256,7 +257,7 @@
         "Cognito-AWS",
         "Amplify"
       ],
-      "url": "https://github.com/lsendoya/portalAdmin"
+      "github": "https://github.com/lsendoya/portalAdmin"
     },
     {
       "name": "Warewise",
@@ -268,7 +269,7 @@
         "AWS",
         "Arquitecturas limpias"
       ],
-      "url": "https://github.com/lsendoya/Warewise"
+      "github": "https://github.com/lsendoya/Warewise"
 
     },
     {
@@ -281,7 +282,7 @@
         "AWS",
         "Arquitecturas limpias"
       ],
-      "url": "https://github.com/lsendoya/handleBook"
+      "github": "https://github.com/lsendoya/handleBook"
 
     },
     {
@@ -290,7 +291,8 @@
       "highlights": [
         "TypeScript",   "React js" , "Vite", "tailwind css"
       ],
-      "url": "https://github.com/lsendoya/wedding"
+      "github": "https://github.com/lsendoya/wedding",
+      "url": "https://wedding-8wbv.vercel.app/"
     }
   ]
 }
