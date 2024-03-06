@@ -45,7 +45,7 @@
       "url": "https://zulu.com.co/",
       "startDate": "2022-09-06",
       "endDate": "2023-03-06",
-      "summary": "Participación en el ciclo completo de desarrollo de software, desde la conceptualización\nhasta el despliegue, bajo la supervisión de desarrolladores experimentados.\n Colaboración en la creación y mantenimiento de APIs y servicios backend, utilizando\nGolang y tecnologías de AWS, adquiriendo conocimientos prácticos en un entorno de\ntrabajo real.\n Contribución a la optimización de procesos y soluciones de software, aprendiendo las\nmejores prácticas de desarrollo y trabajo en equipo",
+      "summary": "Participación en el ciclo completo de desarrollo de software, desde la conceptualización\nhasta el despliegue, bajo la supervisión de desarrolladores experimentados.\n Colaboración en la creación y mantenimiento de APIs y servicios backend, utilizando\nGolang y tecnologías de AWS, adquiriendo conocimientos prácticos en un entorno de\ntrabajo real.\n Contribución a la optimización de procesos y soluciones de software, aprendiendo las\nmejores prácticas de desarrollo y trabajo en equipo.",
       "highlights": [
         ""
       ]
@@ -228,20 +228,11 @@
     "reference": "Reference…"
   }],
   "projects": [
-    {
-      "name": "dalas",
-      "isActive": true,
-      "description": "Landing Page para una marca de ropa interior infantil",
-      "highlights": [
-        "En desarrollo",
-        "TypeScript",   "Astro js" , "Vite", "tailwind css"
-      ],
-      "github": "https://github.com/lsendoya/dalas"
-    },
+
     {
       "name": "Cocktail-App",
       "isActive": true,
-      "description": "Generador de cocteles y recetas",
+      "description": "Cocktail-App es un generador de cocteles y recetas para que disfrutes en tus momentos felices.",
       "highlights": [
         "JavaScript & TypeScript & Astro js"
       ],
@@ -251,7 +242,7 @@
     {
       "name": "Portal Admin",
       "isActive": true,
-      "description": "Portal Admin con autorización y autenticación y gestión de productos",
+      "description": "Portal Admin con autorización y autenticación y gestión de productos.",
       "highlights": [
         "Next js",
         "Cognito-AWS",
@@ -287,7 +278,7 @@
     },
     {
       "name": "wedding",
-      "description": "Tarjeta de invitación creada con mucho amor para mi matrimonio",
+      "description": "Tarjeta de invitación creada con mucho amor para mi matrimonio.",
       "highlights": [
         "TypeScript",   "React js" , "Vite", "tailwind css"
       ],
